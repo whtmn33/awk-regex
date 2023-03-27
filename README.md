@@ -1,4 +1,4 @@
-# awk-regex
+# awk-text-manipulation
 
 A simple script to replace regex strings in text file
 
